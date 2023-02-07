@@ -1,0 +1,15 @@
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\bin\Debug\net6.0\dasdadaqwdaxzdawdasd.exe
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\bin\Debug\net6.0\dasdadaqwdaxzdawdasd.deps.json
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\bin\Debug\net6.0\dasdadaqwdaxzdawdasd.runtimeconfig.json
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\bin\Debug\net6.0\dasdadaqwdaxzdawdasd.dll
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\bin\Debug\net6.0\dasdadaqwdaxzdawdasd.pdb
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.csproj.AssemblyReference.cache
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.AssemblyInfoInputs.cache
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.AssemblyInfo.cs
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.csproj.CoreCompileInputs.cache
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.dll
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\refint\dasdadaqwdaxzdawdasd.dll
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.pdb
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\dasdadaqwdaxzdawdasd.genruntimeconfig.cache
+C:\Users\Matan\OneDrive\เดสก์ท็อป\dasdadaqwdaxzdawdasd\obj\Debug\net6.0\ref\dasdadaqwdaxzdawdasd.dll
